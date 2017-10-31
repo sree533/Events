@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">EventsProject</string>
+    <string name="app_name">Events</string>
+    <string name="login_name_format">User Name: %s</string>
+    <string name="event_type_format">Event Type: %s</string>
 </resources>
